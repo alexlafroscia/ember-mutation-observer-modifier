@@ -36,3 +36,19 @@ Some commit "types" to work with might include
 - `chore`
 
 You can find more information at the link above.
+
+## Publishing a New Version
+
+[`standard-version`](https://github.com/conventional-changelog/standard-version) is used to bump the package version number and update the `CHANGELOG` based on the commit history. To release a new version, first run
+
+```
+yarn release --dry-run
+```
+
+to verify that the proposed changes look correct. Assuming that they do, you can then run
+
+```
+yarn release
+```
+
+to correctly create the release commit. With that complete, upload to GitHub and `npm`. Make sure to update the GitHube Release notes with the new `CHANGELOG` entry, too!
