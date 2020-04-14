@@ -21,6 +21,7 @@ module.exports = {
   },
   rules: {
     "ember/no-jquery": "error",
+    "ember/no-observers": "off", // False-positive reported with MutationObserver methods
   },
   overrides: [
     // node files
