@@ -1,4 +1,4 @@
-# ember-mutation-observer-modifiers
+# ember-mutation-observer-modifier
 
 Use [`MutationObserver`][mutation-observer] through an Ember Modifier
 
@@ -11,7 +11,7 @@ Use [`MutationObserver`][mutation-observer] through an Ember Modifier
 ## Installation
 
 ```
-ember install ember-mutation-observer-modifiers
+ember install ember-mutation-observer-modifier
 ```
 
 ## Usage

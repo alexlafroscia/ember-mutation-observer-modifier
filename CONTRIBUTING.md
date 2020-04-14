@@ -3,7 +3,7 @@
 ## Installation
 
 - `git clone <repository-url>`
-- `cd ember-mutation-observer-modifiers`
+- `cd ember-mutation-observer-modifier`
 - `yarn install`
 
 ## Linting
