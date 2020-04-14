@@ -24,3 +24,15 @@
 - Visit the dummy application at [http://localhost:4200](http://localhost:4200).
 
 For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+
+## Commit Format
+
+This project follows the [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) specification for formatting commit messages. This allows for the automatic generation of a `CHANGELOG` in each package and helps to publish semver-correct versions of each package automatically.
+
+Some commit "types" to work with might include
+
+- `feat`
+- `fix`
+- `chore`
+
+You can find more information at the link above.
