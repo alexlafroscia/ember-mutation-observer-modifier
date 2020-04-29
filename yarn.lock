@@ -3802,7 +3802,7 @@ commander@^4.1.1:
   resolved "https://registry.yarnpkg.com/commander/-/commander-4.1.1.tgz#9fd602bd936294e9e9ef46a3f4d6964044b18068"
   integrity sha512-NOKm8xhkzAjzFx8B2v5OAHT+u5pRQc2UCa2Vq9jYL/31o2wi9mxBA7LIFs3sV5VSC49z6pEhfbMULvShKj26WA==
 
-commander@^5.1.0:
+commander@^5.0.0, commander@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/commander/-/commander-5.1.0.tgz#46abbd1652f8e059bddaef99bbdcb2ad9cf179ae"
   integrity sha512-P0CysNDQ7rtVw4QIQtm+MRxV66vKFSvlsQvGYXZWR3qFU0jlMKHZZZgw8e+8DSah4UDKMqnknRDQz+xuQXQ/Zg==
@@ -5156,10 +5156,10 @@ ember-source-channel-url@^2.0.1:
   dependencies:
     got "^8.0.1"
 
-ember-source@~3.17.0:
-  version "3.17.3"
-  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-3.17.3.tgz#315b198848bcc1699928579b2d7fc2d607ebf63e"
-  integrity sha512-mZ2a4MRJm+QsZ61q7p4Ulq+07IERgEF7mEzOPmqES+J4PpeXyWHAYh1MnSWHz3W5jQhwHQAPs6WTZE0TbAsS2Q==
+ember-source@~3.18.0:
+  version "3.18.0"
+  resolved "https://registry.yarnpkg.com/ember-source/-/ember-source-3.18.0.tgz#a4c417bc74b3d1170eec1d56123006e6942af6d7"
+  integrity sha512-kacCWNhQF0zyZ7+C9/1eiqs7JvshwFdeoCxKYlCP4pW50PGYDN0cxAq6C7bzL8uFBqLCvmgvgz63Go8kgyTNow==
   dependencies:
     "@babel/helper-module-imports" "^7.8.3"
     "@babel/plugin-transform-block-scoping" "^7.8.3"
@@ -10135,12 +10135,7 @@ semver@7.0.0:
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.0.0.tgz#5f3ca35761e47e05b206c6daff2cf814f0316b8e"
   integrity sha512-+GB6zVA9LWh6zovYQLALHwv5rb2PHGlJi3lfiqIHxR0uuwCgefcOJc59v9fv1w8GbStwxuuqqAjI9NMAOOgq1A==
 
-semver@^7.0.0:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-7.3.0.tgz#91f7c70ec944a63e5dc7a74cde2da375d8e0853c"
-  integrity sha512-uyvgU/igkrMgNHwLgXvlpD9jEADbJhB0+JXSywoO47JgJ6c16iau9F9cjtc/E5o0PoqRYTiTIAPRKaYe84z6eQ==
-
-semver@^7.1.3:
+semver@^7.0.0, semver@^7.1.3:
   version "7.3.2"
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.3.2.tgz#604962b052b81ed0786aae84389ffba70ffd3938"
   integrity sha512-OrOb32TeeambH6UrhtShmF7CRDqhL6/5XpPNp2DuRH6+9QLw/orhp72j87v8Qa1ScDkvrrBNpZcDejAirJmfXQ==
