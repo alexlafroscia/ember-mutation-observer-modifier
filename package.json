@@ -1,6 +1,6 @@
 {
   "name": "ember-mutation-observer-modifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use MutationObserver through an Ember Modifier",
   "keywords": [
     "ember-addon"
