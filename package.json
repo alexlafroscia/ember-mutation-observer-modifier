@@ -65,7 +65,7 @@
     "qunit-dom": "^1.1.0",
     "standard-version": "^9.0.0",
     "testdouble": "^3.13.1",
-    "testdouble-qunit": "^2.1.1"
+    "testdouble-qunit": "^3.0.0"
   },
   "engines": {
     "node": "10.* || >= 12"
