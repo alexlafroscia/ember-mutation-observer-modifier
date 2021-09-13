@@ -10428,9 +10428,9 @@ path-key@^3.0.0, path-key@^3.1.0:
   integrity sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-posix@^1.0.0:
   version "1.0.0"
@@ -12384,9 +12384,9 @@ testdouble-qunit@^3.0.0:
   integrity sha512-zd2IKz5eELq4bZPDG0HYE6JTALGibUvrOy9OD05JiiE+4/UEFBDDG7P0tWjJfP5rk2Vm+gK9Do02a/xtvWe+jA==
 
 testdouble@^3.13.1:
-  version "3.16.1"
-  resolved "https://registry.yarnpkg.com/testdouble/-/testdouble-3.16.1.tgz#05e3405b79e81d5e37aec7157cccd52217c97e8b"
-  integrity sha512-diaNYjFfR8bdMhtwJ9c2KxHa7M8Al7YciU+kteutWIIendmCC61ZyqQBtprsFkb6Cd/rjBr2sEoUJ8bWIVHm6w==
+  version "3.16.2"
+  resolved "https://registry.yarnpkg.com/testdouble/-/testdouble-3.16.2.tgz#7ce45d46423fe6cd07926e2371b96ad9e09c1a5b"
+  integrity sha512-oPVoKBXrkP/SaTsF2W7Tpe77whd/jRKbeAVZok1lQKkZ2lFjjFrulpxuHOVF84tMr8PrN8GUUr24Nto/9vs1Lw==
   dependencies:
     lodash "^4.17.15"
     quibble "^0.6.4"
